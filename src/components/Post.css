@@ -1,0 +1,39 @@
+.card-post {
+  background-color: white !important;
+  border: 1px solid rgba(190, 190, 190, .9) !important;
+}
+
+.card-subtext {
+  font-size: 10px;
+  font-weight: 300;
+  color: gray;
+}
+
+.three-dots {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
+
+.three-dots:hover {
+  background-color: #edf0f3;
+  cursor: pointer;
+}
+
+.card-bottom {
+  color: gray;
+}
+
+.card-bottom-buttons {
+  padding: 10px !important;
+}
+
+.card-bottom-buttons:hover {
+  background-color: #edf0f3;
+  cursor: pointer;
+}
+
+.button-icons {
+  font-size: x-large;
+  margin-right: 5px;
+}

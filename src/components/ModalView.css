@@ -1,0 +1,30 @@
+.edit {
+  position: absolute;
+  font-size: large;
+  color: #0077b5;
+}
+
+.edit:hover {
+  cursor: pointer;
+  background-color: #edf0f3;
+}
+
+.edit-experience {
+  top: 15px;
+  right: 10px;
+}
+
+.edit-education {
+  position: absolute;
+  right: 10px;
+}
+
+.save-button {
+  background-color: #0077b5 !important;
+}
+
+.save-button:hover {
+  cursor: pointer;
+  background-color: #edf0f3 !important;
+  color: #0077b5;
+}

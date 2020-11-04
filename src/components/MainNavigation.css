@@ -1,0 +1,17 @@
+.navbar {
+  background-color: var(--cool-gray-80,#283e4a) !important;
+}
+
+.nav-icons {
+  font-size: 25px;
+}
+
+.nav-links {
+  border-bottom: 5px solid white;
+}
+
+.search {
+  border: 0 !important;
+  outline: none;
+  background-color: #edf0f3;
+}

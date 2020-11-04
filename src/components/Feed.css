@@ -1,0 +1,26 @@
+.feed-line {
+  border-bottom: 1px solid rgba(190, 190, 190, .9);
+}
+
+.new-post {
+  background-color: white !important;
+  border: 1px solid rgba(190, 190, 190, .9) !important;
+}
+
+.new-post-area {
+  cursor: pointer;
+}
+
+.new-post-input {
+  border: none;
+  outline: none;
+}
+
+.new-post-buttons {
+  padding: 5px;
+}
+
+.new-post-buttons:hover {
+  background-color: #edf0f3;
+  cursor: pointer;
+}

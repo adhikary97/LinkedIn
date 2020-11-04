@@ -1,0 +1,47 @@
+.profile {
+  margin: 0 250px 0 250px;
+}
+
+.profile-section {
+  background-color: white !important;
+  border: 1px solid rgba(190, 190, 190, .9) !important;
+}
+
+.profile-pic {
+  position: absolute;
+  left: 15px;
+  top: 100px;
+  height: 150px;
+  width: 150px;
+  border: 4px solid white !important;
+}
+
+.profile-text {
+  font-weight: 300;
+}
+
+.banner {
+  background-color: #0077b5;
+  height: 200px;
+}
+
+.edit {
+  position: absolute;
+  font-size: large;
+  color: #0077b5;
+}
+
+.edit:hover {
+  cursor: pointer;
+  background-color: #edf0f3;
+}
+
+.edit-about {
+  top: 10px;
+  right: 10px;
+}
+
+.edit-profile {
+  right: 10px;
+  bottom: 155px
+}
